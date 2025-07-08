@@ -6,3 +6,8 @@ The song "Retro platforming" is by David Fesliyan. "Galaxy starry night sky back
 # Commands: 
 - Spacebar to shoot
 - ⬅ and ➡ to move horizontally
+
+https://arsenlenaslov.github.io/Space-Invaders-Demo/
+
+![Space Invaders](https://github.com/user-attachments/assets/bf3ddd3b-68f5-4f7d-9f1f-bca676df5a40)
+
